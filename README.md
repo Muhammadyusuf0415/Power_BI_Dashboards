@@ -30,7 +30,6 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ![Data Jobs Dashboard 2.0](/images/Project2_Page1.PNG)
 
-[🌐 **View Interactive Dashboard on Power BI Service**](https://lukeb.co/powerbi-project2)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 * 🎨 Advanced Dashboard Design (Single-Page UX & Optimization)
